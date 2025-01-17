@@ -99,3 +99,4 @@ I (619) example: Display LVGL Meter Widget
 
 For any technical queries, please open an [issue] (https://github.com/espressif/esp-idf/issues) on GitHub. We will get back to you soon.
 # LCDTOUCH
+# LCDTOUCH
